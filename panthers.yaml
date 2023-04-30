@@ -2,18 +2,14 @@ team: Panthers
 
 manager: Sebastian
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 coach: Teddy
 
->>>>>>> add-coach
 members:
 - Violet
 - Stella
 - Anthony
-<<<<<<< HEAD
 - Freddie
+<<<<<<< HEAD
 =======
 >>>>>>> add-coach
 =======
@@ -23,3 +19,6 @@ members:
 - Anthony
 - Arachi
 >>>>>>> 659083f (Add team Pumas)
+=======
+- Maruchi
+>>>>>>> 89b3855 (Add Maruchi to Panthers)
